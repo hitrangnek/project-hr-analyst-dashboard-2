@@ -18,8 +18,7 @@ SatisfiedLevel
 
 ## Modeling 
 Star Schema 
-(./screenshot-modeling.png)
-![Dashboard Preview](./screenshot-modeling.png)
+![Star Schema](./screenshot-modeling.png)
 ## Dashboard
 **[View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTdjZmFkYmItOWQyNC00NjM4LWExNjctYWU4MzJiNmE3Njk4IiwidCI6Ijc4NGU5YWE4LWI4ZjQtNGFhOS1iMTgzLTE5ODExNjE5YjllZSJ9)**
 
