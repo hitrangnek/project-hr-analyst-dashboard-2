@@ -15,6 +15,10 @@ SatisfiedLevel
 * Created DAX measures to calculate key HR metrics and monitor workforce trends.
 * Built an interactive Power BI dashboard to visualize HR performance and employee data.
 * Generated insights to support data-driven decisions related to recruitment, employee engagement, and talent retention.
+
+## Modeling 
+Star Schema (./screenshot-modeling.png)
+
 ## Dashboard
 **[View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTdjZmFkYmItOWQyNC00NjM4LWExNjctYWU4MzJiNmE3Njk4IiwidCI6Ijc4NGU5YWE4LWI4ZjQtNGFhOS1iMTgzLTE5ODExNjE5YjllZSJ9)**
 
